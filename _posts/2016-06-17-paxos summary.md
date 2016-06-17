@@ -4,7 +4,7 @@ title: Paxos Summary
 date: 2016-06-17
 ---
 
-# Paxos Summary
+### Paxos Summary
 
 - 通过log副本一致性来保证存储数据的一致性
 >只需要大多数(大于N/2+1)节点服务正常，即可保证服务可用，避免慢的节点影响整个请求响应速度。

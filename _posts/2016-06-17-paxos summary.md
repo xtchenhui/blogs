@@ -24,6 +24,7 @@ date: 2016-06-17
 关于学习者获得倡议值得方式有很多，可参见paxos协议的详细介绍文档。
 
 Raft协议对Paxos进行了改进，使其更易理解和实现。主要的变化有如下几个方面：
+
 1. 将一致性协议分成了三个阶段：leader selection, log replication and safety 
 2. 将paxos的p2p模式改造为Master-slave模式。在leader selection阶段还是p2p模式，在leader选出来之后，log复制及其安全性则完全采用master-slave方式
 了。

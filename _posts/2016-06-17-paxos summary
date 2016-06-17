@@ -1,3 +1,9 @@
+---
+layout: post
+title: Paxos Summary
+date: 2016-06-17
+---
+
 # Paxos Summary
 
 - 通过log副本一致性来保证存储数据的一致性

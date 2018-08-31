@@ -1,0 +1,16 @@
+Title         : Kata Migration API Design
+Author        : 陈辉
+Logo          : True
+
+[TITLE]
+
+# Kata-runtime需要增加的接口 
+
+Madoko is a fast markdown processor for writing professional articles
+with a focus on simplicity and plain text readability.
+
+* Read the [reference manual].
+* Explore the upper-right toolbox menu to discover how Markdown works. 
+* `Alt-Q` reformats the current paragraph.
+
+Enjoy!
